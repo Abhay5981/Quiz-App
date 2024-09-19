@@ -1,4 +1,4 @@
-# Project Name
+# Quiz App
 ## Description
 This is a web application built using HTML, CSS, and JavaScript. It is designed to [brief description of your project's purpose]. The project is responsive, user-friendly, and implements various features to enhance the user experience.
 
@@ -15,24 +15,23 @@ This is a web application built using HTML, CSS, and JavaScript. It is designed 
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/Abhay5981/Quiz-App
+   
+  		 git clone https://github.com/Abhay5981/Quiz-App
 
-2. Navigate to the project folder:
-    cd project-name(type your project name)
-3. Open the index.html file in your preferred web browser:
-    open index.html
+3. Navigate to the project folder:
+   
+   		cd project-name(type your project name)
+5. Open the index.html file in your preferred web browser:
+   
+   		 open index.html
 
 
-## Demo
-	You can view a live demo of the project here:[url]
+## Demo [https://kquizapp.netlify.app/]
+
 
 ## Screenshots 
 
-
-
-
-
-
+![Screenshot (20)](https://github.com/user-attachments/assets/3c9280d1-2539-4db4-9ec7-83a2dc721d5d)
 
 ## Contributing
 If you would like to contribute to this project:
